@@ -1,0 +1,9 @@
+{
+  "userName": "#user-name",
+  "password": "#password",
+  "loginButton": "#login-button",
+  "productText": "//span[@class='title']",
+  "url": "https://www.saucedemo.com/",
+  "expectedText": "Products"
+
+}

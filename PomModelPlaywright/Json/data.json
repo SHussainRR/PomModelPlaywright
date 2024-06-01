@@ -1,0 +1,11 @@
+{
+  "username": "standard_user",
+  "password": "secret_sauce",
+  "url": "https://www.saucedemo.com",
+  "producttext": "Products",
+  "orderconfirmationtext": "Thank you for your order!",
+  "firstname": "Morris",
+  "lastname": "Dan",
+  "zipcode": "AX-8965",
+  "orderNumber": "SauceCard #31337"
+}
